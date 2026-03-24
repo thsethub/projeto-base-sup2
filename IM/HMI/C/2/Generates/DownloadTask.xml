@@ -2,7 +2,7 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="17.0.0.0"
-    CreationTime="2026-03-17 21:54:40 (UTC)"
+    CreationTime="2026-03-24 22:02:13 (UTC)"
     Runtime="COLORADO"
     RtProjectName="Projeto Base.HMI_2[TP700 Comfort]"
     RtProjectFolderName="Projeto Base.HMI_2[TP700 Comfort]"
@@ -12,8 +12,8 @@
     ImageReleaseNo="17.0.0.0"
     RTCV="17.0.0.0"
     PRCV="17.0.0.0"
-    FirmwareFileName="CP_7_9\17.0.0.0\CP_7_9_12_V17_0.fwf"
-    RuntimeFileName="CP_7_9\17.0.0.0\CP_7_9_12_V17_0.ruf"
+    FirmwareFileName=""
+    RuntimeFileName=""
     RuntimeAddonFolderName="CP_7_9" />
   <FullDownload>pdata.fwc</FullDownload>
   <FullDownload
